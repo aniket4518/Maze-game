@@ -180,4 +180,5 @@
     window.onload = function() {
         document.getElementById('restartButton').classList.add('hidden');
         document.getElementById('overlay').classList.remove('hidden');
+    }
     
